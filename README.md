@@ -51,6 +51,7 @@ Here is the link to the code: https://colab.research.google.com/drive/1wvtn4XtZH
 # Task 7: Understanding neural networks and LLMs
 https://docs.google.com/document/d/1iGiEkRdj0vjVgjosTHzCcy-geG_Gt8O16U_dx506MWg/edit?usp=sharing
 
+
 # TASK 8: Mathematics behind machine learning
 I learnt about curve fitting, which is an ML process to find the best fitting curve or function, in order to least error. 
 And I also learnt how the best fit line is chosen via the least squared method, along with the maths. 
@@ -70,3 +71,15 @@ Decision trees is again used for both regression and classification tasks.
 I built a model using decision trees to predict a heart attack.
 ![image](https://github.com/user-attachments/assets/b3a9cdc9-bed8-4ac6-9cd3-88ad8ad22e19)
 Link to the code: https://colab.research.google.com/drive/1vEQDTv95AZXmY8-Q8alyx-_tZQHCYRnB?usp=sharing
+
+# TASK 11:
+SVM or Support Vector Machines is an ML model used for both regression and classification tasks. Depending on the data being linear or non-linear, we use the appropriate method.  
+###FOR NON-LINEAR SEPARATED DATA
+![image](https://github.com/user-attachments/assets/c30bcd49-33e2-418e-9899-ea4407dff9f5)
+###FOR NON-LINEAR SEPARATE BOUNDARIES
+![image](https://github.com/user-attachments/assets/6c60fd72-1124-454e-a754-56d6761defca)
+I also discoverd how svm could be used for regression.
+![image](https://github.com/user-attachments/assets/68136e6e-7d99-4d6d-a182-124bfb80cee6)
+
+Link for colab file code for prediction of breast cancer: https://colab.research.google.com/drive/1sMpEvHlPd8nxP2koB9lxq8sd9qz4UENu?usp=sharing
+For the above task, I have used the dataset(kaggle notebook given in the resource): https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
