@@ -73,7 +73,10 @@ I built a model using decision trees to predict a heart attack.
 Link to the code: https://colab.research.google.com/drive/1vEQDTv95AZXmY8-Q8alyx-_tZQHCYRnB?usp=sharing
 
 # TASK 11:
-SVM or Support Vector Machines is an ML model used for both regression and classification tasks. Depending on the data being linear or non-linear, we use the appropriate method.  
+SVM or Support Vector Machines is an ML model used for both regression and classification tasks. Depending on the data being linear or non-linear, we use the appropriate method.  ![WhatsApp Image 2024-11-03 at 17 01 08_097de3c8](https://github.com/user-attachments/assets/bd6676cb-525e-4ebd-9fb7-7d0c8d266217)
+![WhatsApp Image 2024-11-03 at 17 01 20_f2594401](https://github.com/user-attachments/assets/89f1d2f1-6dc9-48f9-be43-1d147ffc5880)
+
+
 ###FOR NON-LINEAR SEPARATED DATA
 ![image](https://github.com/user-attachments/assets/c30bcd49-33e2-418e-9899-ea4407dff9f5)
 ###FOR NON-LINEAR SEPARATE BOUNDARIES
