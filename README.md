@@ -56,6 +56,8 @@ https://docs.google.com/document/d/1iGiEkRdj0vjVgjosTHzCcy-geG_Gt8O16U_dx506MWg/
 I learnt about curve fitting, which is an ML process to find the best fitting curve or function, in order to least error. 
 And I also learnt how the best fit line is chosen via the least squared method, along with the maths. 
 ![WhatsApp Image 2024-10-02 at 03 01 50_11da4357](https://github.com/user-attachments/assets/e41a7591-0981-4f92-8b8e-d3e3096d139f)
+![WhatsApp Image 2024-11-09 at 23 13 49_c9f2bfd2](https://github.com/user-attachments/assets/c35d9280-7f83-4fa4-8dc3-61b534dd18da)
+
 About the fourier transfrom, I now know that it is used in various real life use cases, like sound engineering, image recognition and analysis, quantum mechanics, etc.
 So, any complex signal or wave, could be broken down to simpler multiple sine and cos waves. This is with the help of the fourier transforms, where say we give an amplitude vs time graph to get a broken down graph of amplitude vs frequency.
 ![WhatsApp Image 2024-10-02 at 03 10 56_aa08f3d2](https://github.com/user-attachments/assets/2e18534a-7bec-4c47-814c-43264a8170b2)
