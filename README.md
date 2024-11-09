@@ -79,9 +79,9 @@ SVM or Support Vector Machines is an ML model used for both regression and class
 ![WhatsApp Image 2024-11-03 at 17 01 20_f2594401](https://github.com/user-attachments/assets/89f1d2f1-6dc9-48f9-be43-1d147ffc5880)
 
 
-###FOR NON-LINEAR SEPARATED DATA
+### FOR NON-LINEAR SEPARATED DATA
 ![image](https://github.com/user-attachments/assets/c30bcd49-33e2-418e-9899-ea4407dff9f5)
-###FOR NON-LINEAR SEPARATE BOUNDARIES
+### FOR NON-LINEAR SEPARATE BOUNDARIES
 ![image](https://github.com/user-attachments/assets/6c60fd72-1124-454e-a754-56d6761defca)
 I also discoverd how svm could be used for regression.
 ![image](https://github.com/user-attachments/assets/68136e6e-7d99-4d6d-a182-124bfb80cee6)
